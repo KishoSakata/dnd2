@@ -2,6 +2,8 @@
 
 [https://finchik.github.io/dnd2/](https://finchik.github.io/dnd2/)
 
+https://kishosakata.github.io/dnd2/
+
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ нужно использовать yarn (поэтому файла `package-lock.json` в репозитории быть не должно)
