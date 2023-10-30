@@ -157,6 +157,7 @@ const taskInFokus = (e) => {
 const onMouseUp = (e) => {
   const mouseUpColomn = e.target.closest('.column');
 
+  console.log('current text: '+e.target.innerText);
   if (e.target.classList.contains('shadow_element')) {
     const shadowZone = mouseUpColomn.querySelector('.shadow_element');
     mouseUpColomn.insertBefore(actualElement, shadowZone);
